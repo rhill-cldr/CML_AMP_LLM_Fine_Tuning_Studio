@@ -8,6 +8,8 @@ For users who just want to interact with the vanilla application, please see the
 
 For users who want to take the next step and start developing, see our [Developing Guidelines](../DEVELOPMENT.md).
 
+For detailed architecture specifications, resource schemas, and validation rules, see the [Developer's Guide](https://rhill-cldr.github.io/CML_AMP_LLM_Fine_Tuning_Studio/).
+
 ## Introduction
 
 The CML Fine Tuning Studio (will shorthand as the “Studio” through the document) is a Cloudera-developed AMP that provides users with an all-encompassing application and “ecosystem” for managing, fine tuning, and evaluating LLMs. This application is a “launcher” that helps users organize and dispatch other CML Workloads (primarily CML Jobs) that are configured specifically for LLM training and evaluation type tasks.

@@ -8,6 +8,7 @@ Want to hop right in? Try the [end-to-end tutorial on training an SQL adapter](d
 
 * [Technical Overview](docs/techinical_overview.md)
 * [User Guide](docs/user_guide.md)
+* [Developer's Guide](https://rhill-cldr.github.io/CML_AMP_LLM_Fine_Tuning_Studio/) — Architecture reference, resource specifications, and validation rules for building training harnesses and validation SDKs
 
 ## About this AMP
 

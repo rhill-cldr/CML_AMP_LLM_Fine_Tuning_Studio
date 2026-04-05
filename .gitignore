@@ -71,6 +71,10 @@ instance/
 # Sphinx documentation
 docs/_build/
 
+# MDBook
+docs/current/book/
+docs/current/src/d2/
+
 # PyBuilder
 .pybuilder/
 target/
@@ -213,3 +217,14 @@ sqlite3
 # but we don't want to ship this in the repo. (maybe go back
 # to using a submodule?)
 src/
+!docs/current/src/
+# Devenv
+.devenv*
+devenv.local.nix
+devenv.local.yaml
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
